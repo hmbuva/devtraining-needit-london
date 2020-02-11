@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="label" max_length="40" name="option" type="collection">
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="x_58872_needit_u_currency_2" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="x_58872_needit_u_glide_date_time_1" type="glide_date_time"/>
+    </element>
+</database>
